@@ -113,3 +113,26 @@ Enteros class >> verificar: n [
 	
 	(n isInteger and: [ n >= 0 ]) ifFalse: [ self error: 'El numero debe ser positivo o cero' ]
 ]
+
+{ #category : #arithmetic }
+Enteros >> divisores: n [
+	"Metodo para calcular los divisores de un numero"
+	
+	| num resultado |
+	
+	resultado:= OrderedCollection new.
+	num:= n.
+	self verificar: num.
+	
+	1 to: num do: [ :i | 
+		((num \\ i) = 0) ifTrue: [ resultado add: i ] ].
+	
+^resultado asArray
+]
+
+{ #category : #testing }
+Enteros >> verificar: n [
+	"Metodo para verificar si un numero es entero positivo"
+	
+	(n isInteger and: [ n >= 0 ]) ifFalse: [ self error: 'El numero debe ser positivo o cero' ]
+]
