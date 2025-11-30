@@ -1,0 +1,3 @@
+turno
+turnoActual
+	^ turnoActual

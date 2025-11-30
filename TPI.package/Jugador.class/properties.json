@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TPI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tablero",
+		"barcoSeleccionado",
+		"nombre",
+		"controlador",
+		"radarDisponible",
+		"movDisponible",
+		"fichasDisponibles",
+		"barcosAColocar",
+		"barcosComprados"
+	],
+	"name" : "Jugador",
+	"type" : "normal"
+}

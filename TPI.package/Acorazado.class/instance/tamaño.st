@@ -1,0 +1,3 @@
+longitud
+tamaño
+	^ 4

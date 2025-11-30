@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Morph",
+	"category" : "TPI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fila",
+		"columna",
+		"ocupadaPorBarco",
+		"fueGolpeada",
+		"jugador",
+		"esIsla",
+		"esMina",
+		"barcoAsociado"
+	],
+	"name" : "CeldaMorph",
+	"type" : "normal"
+}

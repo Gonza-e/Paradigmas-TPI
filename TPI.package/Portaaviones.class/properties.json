@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Embarcaciones",
+	"category" : "TPI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Portaaviones",
+	"type" : "normal"
+}

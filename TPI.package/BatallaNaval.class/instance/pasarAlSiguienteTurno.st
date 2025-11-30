@@ -1,0 +1,3 @@
+turno
+pasarAlSiguienteTurno
+	self siguienteTurno

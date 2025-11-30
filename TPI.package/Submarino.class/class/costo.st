@@ -1,0 +1,3 @@
+longitud
+costo
+	^ 4

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Embarcaciones",
+	"category" : "TPI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Crucero",
+	"type" : "normal"
+}

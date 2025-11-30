@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TPI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"modoAtaque",
+		"barcoDeAtaqueSeleccionado",
+		"tamaño",
+		"impactos",
+		"nombre"
+	],
+	"name" : "Embarcaciones",
+	"type" : "normal"
+}

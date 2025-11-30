@@ -1,0 +1,3 @@
+accessing
+barcoEnMovimiento
+	^ barcoEnMovimiento

@@ -1,0 +1,3 @@
+precio
+tamaño
+	^ 2
